@@ -1,0 +1,56 @@
+.top {
+    margin-top: 230px;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 65lvh;
+    box-sizing: border-box
+}
+
+.btn {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.info {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 100px;
+}
+
+.links {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 100px;
+}
+
+.link {
+    position: relative;
+}
+
+.link a {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+
+
+.icon {
+    height: 80px;
+    margin: 15px
+}
+
+.card .col-md-8 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    margin-top: 15px;
+}
+
+.card-title {
+    margin-bottom: 0px;
+}
